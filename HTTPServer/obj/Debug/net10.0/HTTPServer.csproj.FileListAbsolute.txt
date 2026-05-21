@@ -1,0 +1,14 @@
+D:\Programming\C#\less2\hm1\HttpNetwork\HTTPServer\bin\Debug\net10.0\HTTPServer.exe
+D:\Programming\C#\less2\hm1\HttpNetwork\HTTPServer\bin\Debug\net10.0\HTTPServer.deps.json
+D:\Programming\C#\less2\hm1\HttpNetwork\HTTPServer\bin\Debug\net10.0\HTTPServer.runtimeconfig.json
+D:\Programming\C#\less2\hm1\HttpNetwork\HTTPServer\bin\Debug\net10.0\HTTPServer.dll
+D:\Programming\C#\less2\hm1\HttpNetwork\HTTPServer\bin\Debug\net10.0\HTTPServer.pdb
+D:\Programming\C#\less2\hm1\HttpNetwork\HTTPServer\obj\Debug\net10.0\HTTPServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\less2\hm1\HttpNetwork\HTTPServer\obj\Debug\net10.0\HTTPServer.AssemblyInfoInputs.cache
+D:\Programming\C#\less2\hm1\HttpNetwork\HTTPServer\obj\Debug\net10.0\HTTPServer.AssemblyInfo.cs
+D:\Programming\C#\less2\hm1\HttpNetwork\HTTPServer\obj\Debug\net10.0\HTTPServer.csproj.CoreCompileInputs.cache
+D:\Programming\C#\less2\hm1\HttpNetwork\HTTPServer\obj\Debug\net10.0\HTTPServer.dll
+D:\Programming\C#\less2\hm1\HttpNetwork\HTTPServer\obj\Debug\net10.0\refint\HTTPServer.dll
+D:\Programming\C#\less2\hm1\HttpNetwork\HTTPServer\obj\Debug\net10.0\HTTPServer.pdb
+D:\Programming\C#\less2\hm1\HttpNetwork\HTTPServer\obj\Debug\net10.0\HTTPServer.genruntimeconfig.cache
+D:\Programming\C#\less2\hm1\HttpNetwork\HTTPServer\obj\Debug\net10.0\ref\HTTPServer.dll
